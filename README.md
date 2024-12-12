@@ -22,7 +22,8 @@ Everin is built as a Requirement for Bangkit 2024's Product-Based Capstone Proje
 
 # Repository of all Path
 
-| Path | Link
-| Machine Learning | [Github](https://github.com/alvinastr/Everin-ML.git) |
-| Cloud Computing | [Github]() |
-| Mobile Development | [Github]()|
+| Path               | Link                                                                 |
+|--------------------|----------------------------------------------------------------------|
+| Machine Learning   | [Github](https://github.com/alvinastr/Everin-ML.git)                 |
+| Cloud Computing    | [Github]()                                                           |
+| Mobile Development | [Github]()                                                           |
